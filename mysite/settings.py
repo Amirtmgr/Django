@@ -123,3 +123,5 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 
 #token = '9c0a8ed08887ea364e18e77795f40ec9f09b97a1'
+
+LOGIN_REDIRECT_URL = '/'
